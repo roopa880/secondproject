@@ -1,0 +1,8 @@
+
+spring:
+application:
+name: VolunteerService
+profiles:
+active: dev
+server:
+contextPath: /vs
